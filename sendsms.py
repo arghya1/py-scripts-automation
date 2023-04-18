@@ -9,7 +9,7 @@ url = "https://api.mailjet.com/v4/sms-send"
 
 # Write the headers
 headers = {
-        'Authorization': "Bearer b922c6a65470a550d012e72b3d3ca4ec",
+        'Authorization': "Bearer $API_Token",
         'Content-Type': "application/json"
 }
 
